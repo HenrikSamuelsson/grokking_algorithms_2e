@@ -11,6 +11,7 @@ Work through all chapters, exercises, and code examples from the book.
 ### Chapter 1 - Introduction to Algorithms
 
 - [Exercise 1.1 — Binary Search](01_introduction_to_algorithms/exercise_01_01/exercise_01_01.md)
+- [Exercise 1.2 — Doubling the List Size](01_introduction_to_algorithms/exercise_01_02/exercise_01_02.md)
 
 ## Resources
 
