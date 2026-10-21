@@ -6,6 +6,12 @@ My notes, exercises, and code examples while reading *Grokking Algorithms, Secon
 
 Work through all chapters, exercises, and code examples from the book.
 
+## Exercise Solutions
+
+### Chapter 1 - Introduction to Algorithms
+
+- [Exercise 1.1 — Binary Search](01_introduction_to_algorithms/exercise_01_01/exercise_01_01.md)
+
 ## Resources
 
 Code examples repository [Grokking Algorithms](https://github.com/egonSchiele/grokking_algorithms) at GitHub.
