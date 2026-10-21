@@ -32,3 +32,5 @@ Given a sorted list of 128 names, the number of steps required to reduce the lis
 ## References
 
 Bhargava, A. Y. (2024). *Grokking algorithms: An illustrated guide for programmers and other curious people* (2nd ed.). Manning Publications.
+
+[Home](../../README.md) | [Next →](../exercise_01_02/exercise_01_02.md)
