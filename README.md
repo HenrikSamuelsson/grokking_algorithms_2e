@@ -12,7 +12,8 @@ Work through all chapters, exercises, and code examples from the book.
 
 - [Exercise 1.1 — Binary Search](01_introduction_to_algorithms/exercise_01_01/exercise_01_01.md)
 - [Exercise 1.2 — Doubling the List Size](01_introduction_to_algorithms/exercise_01_02/exercise_01_02.md)
-- [Exercise 1.3 — Phone Book Search Run Time](01_introduction_to_algorithms/exercise_01_03/exercise_01_03.md)
+- [Exercise 1.3 — Phone Book Number Search Run Time](01_introduction_to_algorithms/exercise_01_03/exercise_01_03.md)
+- [Exercise 1.4 — Phone Book Name Search Run Time](01_introduction_to_algorithms/exercise_01_04/exercise_01_04.md)
 
 ## Resources
 

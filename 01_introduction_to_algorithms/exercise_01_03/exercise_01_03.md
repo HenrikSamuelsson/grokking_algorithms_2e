@@ -1,4 +1,4 @@
-# Exercise 1.3 — Phone Book Search Run Time
+# Exercise 1.3 — Phone Book Number Search Run Time
 
 ## Introduction
 
