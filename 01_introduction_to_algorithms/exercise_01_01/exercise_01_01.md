@@ -27,7 +27,7 @@ Given a sorted list of 128 names, the number of steps required to reduce the lis
 
 ## Answer
 
-7 steps.
+7 steps
 
 ## References
 

@@ -18,7 +18,7 @@ The maximum number of steps therefore increases from 7 to 8.
 
 ## Answer
 
-8 steps.
+8 steps
 
 ## References
 
