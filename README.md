@@ -14,7 +14,8 @@ Work through all chapters, exercises, and code examples from the book.
 - [Exercise 1.2 — Doubling the List Size](01_introduction_to_algorithms/exercise_01_02/exercise_01_02.md)
 - [Exercise 1.3 — Phone Book Number Search Run Time](01_introduction_to_algorithms/exercise_01_03/exercise_01_03.md)
 - [Exercise 1.4 — Phone Book Name Search Run Time](01_introduction_to_algorithms/exercise_01_04/exercise_01_04.md)
-- [Exercise 1.5 — Phone Book Reading Names Run Time](01_introduction_to_algorithms/exercise_01_05/exercise_01_05.md)
+- [Exercise 1.5 — Phone Book Reading All Entries Run Time](01_introduction_to_algorithms/exercise_01_05/exercise_01_05.md)
+- [Exercise 1.6 — Phone Book Reading A Entries Run Time](01_introduction_to_algorithms/exercise_01_05/exercise_01_05.md)
 
 ## Resources
 
