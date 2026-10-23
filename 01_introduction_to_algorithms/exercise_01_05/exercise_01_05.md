@@ -1,4 +1,4 @@
-# Exercise 1.5 — Phone Book Number Read Run Time
+# Exercise 1.5 — Phone Book Reading All Entries Run Time
 
 ## Introduction
 
